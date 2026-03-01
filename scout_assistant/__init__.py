@@ -1,0 +1,2 @@
+"""Recruiter Scout assistant package."""
+

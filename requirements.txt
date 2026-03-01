@@ -1,0 +1,6 @@
+# Optional: install OpenAI SDK to enable grounded GPT fallback extraction.
+openai>=1.40.0
+python-dotenv>=1.0.1
+certifi>=2024.8.30
+Flask>=3.0.0
+twilio>=9.3.0
